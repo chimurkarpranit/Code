@@ -1,0 +1,213 @@
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Excercise 5.dll.config
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Excercise 5.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Excercise 5.pdb
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\csc.exe
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\csc.exe.config
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\csc.rsp
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\csi.exe
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\csi.exe.config
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\csi.rsp
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.AppContext.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Collections.Immutable.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Console.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.IO.Compression.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.IO.FileSystem.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.IO.Pipes.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.AccessControl.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.Claims.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.ValueTuple.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Xml.XPath.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\vbc.exe
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\vbc.exe.config
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\vbc.rsp
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\VBCSCompiler.exe
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\roslyn\VBCSCompiler.exe.config
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Antlr3.Runtime.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\AspNet.ScriptManager.jQuery.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.Web.Infrastructure.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Newtonsoft.Json.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\System.Web.Optimization.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\WebGrease.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\System.Web.Optimization.xml
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Newtonsoft.Json.xml
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Antlr3.Runtime.pdb
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Rajat\ASPNET\Day 6\Excercise 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Rajat\ASPNET\Day 6\Excercise 5\obj\Debug\Excercise 5.csprojAssemblyReference.cache
+D:\Rajat\ASPNET\Day 6\Excercise 5\obj\Debug\Excercise 5.csproj.CoreCompileInputs.cache
+D:\Rajat\ASPNET\Day 6\Excercise 5\obj\Debug\Excercise 5.csproj.CopyComplete
+D:\Rajat\ASPNET\Day 6\Excercise 5\obj\Debug\Excercise 5.dll
+D:\Rajat\ASPNET\Day 6\Excercise 5\obj\Debug\Excercise 5.pdb
+D:\Bootstrap\Day 6\Excercise 5\bin\Excercise 5.dll.config
+D:\Bootstrap\Day 6\Excercise 5\bin\Excercise 5.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Excercise 5.pdb
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\csc.exe
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\csc.exe.config
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\csc.rsp
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\csi.exe
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\csi.exe.config
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\csi.rsp
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.AppContext.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Collections.Immutable.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Console.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.IO.Compression.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.IO.FileSystem.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.IO.Pipes.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.AccessControl.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.Claims.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.ValueTuple.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Xml.XPath.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\vbc.exe
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\vbc.exe.config
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\vbc.rsp
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\VBCSCompiler.exe
+D:\Bootstrap\Day 6\Excercise 5\bin\roslyn\VBCSCompiler.exe.config
+D:\Bootstrap\Day 6\Excercise 5\bin\Antlr3.Runtime.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\AspNet.ScriptManager.jQuery.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.Web.Infrastructure.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\Newtonsoft.Json.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\System.Web.Optimization.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\WebGrease.dll
+D:\Bootstrap\Day 6\Excercise 5\bin\System.Web.Optimization.xml
+D:\Bootstrap\Day 6\Excercise 5\bin\Newtonsoft.Json.xml
+D:\Bootstrap\Day 6\Excercise 5\bin\Antlr3.Runtime.pdb
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Bootstrap\Day 6\Excercise 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Bootstrap\Day 6\Excercise 5\obj\Debug\Excercise 5.csprojAssemblyReference.cache
+D:\Bootstrap\Day 6\Excercise 5\obj\Debug\Excercise 5.csproj.CoreCompileInputs.cache
+D:\Bootstrap\Day 6\Excercise 5\obj\Debug\Excercise 5.csproj.CopyComplete
+D:\Bootstrap\Day 6\Excercise 5\obj\Debug\Excercise 5.dll
+D:\Bootstrap\Day 6\Excercise 5\obj\Debug\Excercise 5.pdb
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Excercise 5.dll.config
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Excercise 5.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Excercise 5.pdb
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\csc.exe
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\csc.exe.config
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\csc.rsp
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\csi.exe
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\csi.exe.config
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\csi.rsp
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.AppContext.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Collections.Immutable.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Console.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.IO.Compression.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.IO.FileSystem.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.IO.Pipes.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Reflection.Metadata.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.AccessControl.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.Claims.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Security.Principal.Windows.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.ValueTuple.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Xml.XPath.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\vbc.exe
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\vbc.exe.config
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\vbc.rsp
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\VBCSCompiler.exe
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\roslyn\VBCSCompiler.exe.config
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Antlr3.Runtime.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\AspNet.ScriptManager.bootstrap.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\AspNet.ScriptManager.jQuery.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.ScriptManager.WebForms.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.Web.Infrastructure.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Newtonsoft.Json.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\System.Web.Optimization.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\WebGrease.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\System.Web.Optimization.xml
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Newtonsoft.Json.xml
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Antlr3.Runtime.pdb
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\ada-master\ada-master\Exercise_5\Excercise 5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ada-master\ada-master\Exercise_5\Excercise 5\obj\Debug\Excercise 5.csprojAssemblyReference.cache
+G:\ada-master\ada-master\Exercise_5\Excercise 5\obj\Debug\Excercise 5.csproj.CoreCompileInputs.cache
+G:\ada-master\ada-master\Exercise_5\Excercise 5\obj\Debug\Excercise 5.csproj.CopyComplete
+G:\ada-master\ada-master\Exercise_5\Excercise 5\obj\Debug\Excercise 5.dll
+G:\ada-master\ada-master\Exercise_5\Excercise 5\obj\Debug\Excercise 5.pdb
